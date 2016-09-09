@@ -1,4 +1,4 @@
-[DEVELOP changes]
+[DEVELOP changes 2]
 # Mathias’s dotfiles
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
